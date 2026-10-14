@@ -2,7 +2,7 @@
 
 **A Python toolkit for analysing, processing, and visualising astrophysical simulations.**
 
-`[Package Name]` is a Python package designed to simplify the analysis of cosmological hydrodynamical simulations, with a focus on particle-based data, galaxy properties, sink particles, and black hole evolution.
+`AstroForge` is a Python package designed to simplify the analysis of cosmological hydrodynamical simulations, with a focus on particle-based data, galaxy properties, sink particles, and black hole evolution.
 
 The package provides a structured interface for accessing simulation outputs, constructing particle and galaxy catalogues, tracking particle evolution across snapshots, analysing black hole growth and merger histories, and producing scientific visualisations.
 
