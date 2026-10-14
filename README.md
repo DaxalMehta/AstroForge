@@ -1,4 +1,4 @@
-# [Package Name]
+# AstroForge
 
 **A Python toolkit for analysing, processing, and visualising astrophysical simulations.**
 
